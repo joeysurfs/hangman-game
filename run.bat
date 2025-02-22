@@ -1,4 +1,4 @@
-REM filepath: /e:/TaylorLogic/hangman-game/run.bat
+REM
 @echo off
 cd /d "%~dp0"
 set JAVAFX_PATH=C:\javafx-sdk-23.0.2\lib
